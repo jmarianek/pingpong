@@ -1,2 +1,2 @@
 # pingpong
-simple game for two players
+simple game for two players in javascript
